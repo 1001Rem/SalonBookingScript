@@ -179,3 +179,11 @@ psql --username=freecodecamp --dbname=postgres
 ./salon.sh
 ./salon.sh
 ./salon.sh
+git remote add origin https://github.com/1001Rem/SalonBookingScript.git
+git branch -M main
+git push -u origin main
+git branch -M main
+git branch -M main
+git remote add origin https://github.com/1001Rem/SalonBookingScript.git
+git push -u origin main
+git push -u origin main
